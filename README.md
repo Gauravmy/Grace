@@ -38,28 +38,7 @@
 - **Frontend:** Streamlit (for UI visualization)  
 - **Cloud & Security:** HIPAA-compliant edge processing  
 
----
 
-## 📂 **Repository Structure**  
-```
-📁 Grace/
-│── 📁 src/                   # Source code
-│   ├── main.py               # Main application logic
-│   ├── voice_recognition.py   # AI-powered voice recognition
-│   ├── gesture_control.py     # Gesture-based interaction
-│   ├── database.py            # MongoDB integration
-│── 📁 models/                 # Pre-trained AI models
-│── 📁 docs/                   # Documentation & research papers
-│── 📁 assets/                 # Images, logos, and UI components
-│── 📁 tests/                  # Unit tests for various modules
-│── requirements.txt           # Dependencies
-│── .gitignore                 # Git ignore file
-│── README.md                  # Project description
-│── LICENSE                    # License file (MIT, Apache 2.0, etc.)
-│── CONTRIBUTING.md             # Guidelines for contributors
-```
-
----
 
 ## 🚀 **Setup & Installation**  
 1️⃣ **Clone the repository:**  
@@ -104,6 +83,6 @@ Grace is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 🔹 website -  https://v0-grace-clrf5dhnktt.vercel.app/
 🔹 **Hackathon Submission:**  - https://devfolio.co/projects/grace-0de1
 
----
+
 
 This README is **professional, clear, and well-structured** for your hackathon submission. Let me know if you need **modifications**! 🚀
